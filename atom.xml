@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tannhauser Gate</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-01-06T10:51:11.268Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>HC</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/01/05/Begin/"/>
+    <id>http://yoursite.com/2019/01/05/Begin/</id>
+    <published>2019-01-05T12:23:44.846Z</published>
+    <updated>2019-01-06T10:51:11.268Z</updated>
+    
+    <content type="html"><![CDATA[<p>title:  Begin<br>date:  2019-01-05 20:23:44<br>type:  “categories”</p><p>人类总会选择最安全、最中庸的道路前进，群星就会变成遥不可及的幻梦。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;title:  Begin&lt;br&gt;date:  2019-01-05 20:23:44&lt;br&gt;type:  “categories”&lt;/p&gt;
+&lt;p&gt;人类总会选择最安全、最中庸的道路前进，群星就会变成遥不可及的幻梦。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
